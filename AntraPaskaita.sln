@@ -3,31 +3,39 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntraPaskaita", "AntraPaskaita\AntraPaskaita.csproj", "{42629F72-C706-4416-BF4F-D042BBF60974}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AntraPaskaita", "AntraPaskaita\AntraPaskaita.csproj", "{42629F72-C706-4416-BF4F-D042BBF60974}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzduotis1", "Uzduotis1\Uzduotis1.csproj", "{4D768B19-2C7C-4D67-8F2A-256F0BEED1C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uzduotis1", "Uzduotis1\Uzduotis1.csproj", "{4D768B19-2C7C-4D67-8F2A-256F0BEED1C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzduotis2", "Uzduotis2\Uzduotis2.csproj", "{987C11C1-B5E5-4C03-9586-06F724785686}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uzduotis2", "Uzduotis2\Uzduotis2.csproj", "{987C11C1-B5E5-4C03-9586-06F724785686}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzduotis3", "Uzduotis3\Uzduotis3.csproj", "{1E4B199E-666C-45E9-9BB1-F55C4D85914D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uzduotis3", "Uzduotis3\Uzduotis3.csproj", "{1E4B199E-666C-45E9-9BB1-F55C4D85914D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzduotis4While", "Uzduotis4\Uzduotis4While.csproj", "{7D2F3572-F208-483E-88F3-0BB0AC57AC87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uzduotis4While", "Uzduotis4\Uzduotis4While.csproj", "{7D2F3572-F208-483E-88F3-0BB0AC57AC87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzduotis5While", "Uzduotis5While\Uzduotis5While.csproj", "{425DEEFA-08FD-4487-BB3A-C1E435AEA073}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uzduotis5While", "Uzduotis5While\Uzduotis5While.csproj", "{425DEEFA-08FD-4487-BB3A-C1E435AEA073}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzduotis6While", "Uzduotis6While\Uzduotis6While.csproj", "{098F4FF9-3F7C-4758-9B58-0F699A1D7D49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uzduotis6While", "Uzduotis6While\Uzduotis6While.csproj", "{098F4FF9-3F7C-4758-9B58-0F699A1D7D49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzduotis7While", "Uzduotis7While\Uzduotis7While.csproj", "{240BE760-FBB0-4777-B0BD-23FEE7DA9D09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uzduotis7While", "Uzduotis7While\Uzduotis7While.csproj", "{240BE760-FBB0-4777-B0BD-23FEE7DA9D09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzduotis8While", "Uzduotis8While\Uzduotis8While.csproj", "{C3E4AFD9-7606-4CC8-9A90-5AE6E01DE222}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uzduotis8While", "Uzduotis8While\Uzduotis8While.csproj", "{C3E4AFD9-7606-4CC8-9A90-5AE6E01DE222}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzduotis9Ciklai", "Uzduotis9Ciklai\Uzduotis9Ciklai.csproj", "{79EA38FE-53CC-4DFB-AD13-86CAD8B2D649}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uzduotis9Ciklai", "Uzduotis9Ciklai\Uzduotis9Ciklai.csproj", "{79EA38FE-53CC-4DFB-AD13-86CAD8B2D649}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzduotis10Ciklai", "Uzduotis10Ciklai\Uzduotis10Ciklai.csproj", "{CFC9276D-36A0-4714-8877-22E3CD55EB89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uzduotis10Ciklai", "Uzduotis10Ciklai\Uzduotis10Ciklai.csproj", "{CFC9276D-36A0-4714-8877-22E3CD55EB89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzduotis11Ciklai", "Uzduotis11Ciklai\Uzduotis11Ciklai.csproj", "{A6FBA164-7D48-475A-98DA-7D3BBCB4605B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uzduotis11Ciklai", "Uzduotis11Ciklai\Uzduotis11Ciklai.csproj", "{A6FBA164-7D48-475A-98DA-7D3BBCB4605B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzduotis12Ciklai", "Uzduotis12Ciklai\Uzduotis12Ciklai.csproj", "{3CD2930B-3661-4275-B3AE-21A58C6C1C70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uzduotis12Ciklai", "Uzduotis12Ciklai\Uzduotis12Ciklai.csproj", "{3CD2930B-3661-4275-B3AE-21A58C6C1C70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13UzduotisAugalai", "13UzduotisAugalai\13UzduotisAugalai.csproj", "{1776E621-BE45-4189-9EA1-793B485D993D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14Uzduotis300", "14Uzduotis\14Uzduotis300.csproj", "{BA4A03CD-F994-48AF-9B27-DD52EC8A7F0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15Uzduotis3000", "15Uzduotis3000\15Uzduotis3000.csproj", "{2EAF0F79-0899-4937-B5CA-D8D377D367CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16UzduotisKvadratas", "16UzduotisKvadratas\16UzduotisKvadratas.csproj", "{D8A3B447-5B81-4526-B99C-FA853549B79C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +95,22 @@ Global
 		{3CD2930B-3661-4275-B3AE-21A58C6C1C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CD2930B-3661-4275-B3AE-21A58C6C1C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CD2930B-3661-4275-B3AE-21A58C6C1C70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1776E621-BE45-4189-9EA1-793B485D993D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1776E621-BE45-4189-9EA1-793B485D993D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1776E621-BE45-4189-9EA1-793B485D993D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1776E621-BE45-4189-9EA1-793B485D993D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA4A03CD-F994-48AF-9B27-DD52EC8A7F0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA4A03CD-F994-48AF-9B27-DD52EC8A7F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA4A03CD-F994-48AF-9B27-DD52EC8A7F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA4A03CD-F994-48AF-9B27-DD52EC8A7F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EAF0F79-0899-4937-B5CA-D8D377D367CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EAF0F79-0899-4937-B5CA-D8D377D367CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EAF0F79-0899-4937-B5CA-D8D377D367CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EAF0F79-0899-4937-B5CA-D8D377D367CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8A3B447-5B81-4526-B99C-FA853549B79C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A3B447-5B81-4526-B99C-FA853549B79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A3B447-5B81-4526-B99C-FA853549B79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A3B447-5B81-4526-B99C-FA853549B79C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
