@@ -14,7 +14,7 @@ namespace AntraPaskaita
             //  o reikšmė masyve atitinka raidės pasikartojimo skaičių.
 
 
-            Console.WriteLine("Įveskite teksta:");
+            Console.WriteLine("Įveskite savo teksta:");
 
             string text = Console.ReadLine().ToLower();
 
